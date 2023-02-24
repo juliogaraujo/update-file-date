@@ -20,5 +20,5 @@ Update the date and time for Google Takeout Photos and/or Videos, based on json 
 > Example:
 	upd-date-file -b . -f outcome.csv
 
-Version: R1A
+Version: R1A  
 Powered by: julio.araujo@jgtechserv.com.br
